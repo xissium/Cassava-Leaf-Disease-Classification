@@ -1,5 +1,11 @@
 # Cassava Leaf Disease Classification
 
+## Model
+
+* [x] ResNeXt50_32x4d
+
+* [ ] Vision Transformer (ViT) (to be continued ...)
+
 ## How to run
 
 ### Environment
